@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "awesomeflows": { "url": "https://awesomeflows.com/api/mcp" }
+  }
+}

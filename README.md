@@ -1,0 +1,1 @@
+# awesomeflows-cursor-plugin
